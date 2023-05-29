@@ -1,3 +1,11 @@
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f7f9eb;
+}
+
 .one-column {
     display: flex;
   }
