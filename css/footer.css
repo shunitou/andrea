@@ -14,3 +14,17 @@ footer {
     height: 50px;
     margin: 0 10px;
 }
+
+.four-column {
+    display: flex;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 10px;
+  }
+  
+
+
+
+
