@@ -1,0 +1,16 @@
+/* styles.css */
+footer {
+    background-color: #f7f9eb;
+    padding: 20px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container img {
+    height: 50px;
+    margin: 0 10px;
+}
