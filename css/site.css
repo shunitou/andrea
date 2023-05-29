@@ -1,0 +1,13 @@
+.one-column {
+    display: flex;
+  }
+
+.two-column {
+    display: flex;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 10px;
+  }
+  
