@@ -94,6 +94,7 @@ padding-left: 30%;
 
 .column-calendar button,
 .column-program button {
+  background-color: #F7AD44;
   display: block;
   margin-top: 10px;
 }
