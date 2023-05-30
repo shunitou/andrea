@@ -5,10 +5,9 @@ main {
   text-align: center;
 }
 .headers h1{
-  display: flex;
   color: #F79944;
   font-weight: 53 bold;
-  font-size: 53px;
+  font-size: 40px;
 }
 .headers p {
   font: size 22px;;
@@ -26,7 +25,7 @@ h3{
 color: #F79944;
 font-weight: 53 bold;
 text-align: left;
-font-size: 33px;
+font-size: 28px;
 padding-left: 10%;
 }
 
@@ -98,7 +97,7 @@ padding-left: 30%;
 .column-calendar button,
 .column-program button {
   background-color: #F7AD44;
-  display: block;
+  display: flex;
   margin-top: 10px;
-padding-left: 30%;
+
 }
