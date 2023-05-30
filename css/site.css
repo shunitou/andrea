@@ -10,7 +10,8 @@ main {
   justify-content: space-between;
   margin-bottom: 20px;
 }
-.two-column h3{
+
+h3{
 color: #F79944;
 font-weight: 53 bold;
 }
@@ -58,10 +59,12 @@ button {
 .column h2 {
 color: #F7AD44;
 font-weight: 43 bold;
+text-align: left;
 }
 
 .column p {
   font: size 22px;;
  color: #5B5B5A;
+ text-align: left;
 }
 
