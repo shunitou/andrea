@@ -48,29 +48,3 @@ main {
   display: flex;
 }
 
-.box {
-  flex: 1;
-  text-align: center;
-  margin: 0 10px;
-}
-
-.box img {
-  width: 100%;
-  max-width: 200px;
-  height: auto;
-}
-
-.box h3, .box a {
-  margin: 10px 0;
-}
-
-.arrow-left, .arrow-right {
-  width: 20px;
-  height: 20px;
-  background-color: #000;
-  display: inline-block;
-}
-
-.arrow-right {
-  transform: rotate(180deg);
-}
