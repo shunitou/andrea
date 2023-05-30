@@ -44,7 +44,36 @@ button {
   margin-bottom: 10px;
 }
 
-main {
+.three-boxes {
   display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
 }
 
+.three-boxes .box {
+  flex: 1;
+  text-align: center;
+}
+
+.three-boxes .box img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.three-boxes .box h2,
+.three-boxes .box p {
+  margin: 10px 0;
+}
+
+.three-boxes .arrow-left,
+.three-boxes .arrow-right {
+  width: 20px;
+  height: 20px;
+  background-color: #000;
+  display: inline-block;
+}
+
+.three-boxes .arrow-right {
+  transform: rotate(180deg);
+}
