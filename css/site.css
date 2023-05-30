@@ -1,6 +1,6 @@
 main {
-    display: flex;
-    background-color: #f7f9eb;
+  background-color: #f7f9eb;
+  padding: 20px;
 }
 
 .one-column {
