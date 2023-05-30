@@ -60,7 +60,7 @@ main {
   height: auto;
 }
 
-.box h2, .box p {
+.box h3, .box a {
   margin: 10px 0;
 }
 
