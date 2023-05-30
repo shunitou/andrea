@@ -98,6 +98,5 @@ padding-left: 30%;
 .column-program button {
   background-color: #F7AD44;
   display: flex;
-  margin-top: 10px;
-
+  margin: 10px auto 0;
 }
