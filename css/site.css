@@ -5,8 +5,10 @@ main {
   text-align: center;
 }
 .headers h1{
+  display: flex;
   color: #F79944;
   font-weight: 53 bold;
+  font-size: 53px;
 }
 .headers p {
   font: size 22px;;
@@ -20,10 +22,11 @@ main {
 }
 
 h3{
+  display: flex;
 color: #F79944;
 font-weight: 53 bold;
 text-align: left;
-font-size: 53px;
+font-size: 33px;
 padding-left: 10%;
 }
 
@@ -97,5 +100,5 @@ padding-left: 30%;
   background-color: #F7AD44;
   display: block;
   margin-top: 10px;
-  align-items: center;
+padding-left: 30%;
 }
