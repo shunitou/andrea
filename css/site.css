@@ -1,4 +1,9 @@
 main {
+    background-image: url("img/12.png"), url("img/13.png"), url("img/14.png");
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center top, center center, center bottom;
+    background-size: cover, cover, cover;
+  
   background-color: #f7f9eb;
   padding: 20px;
   align-items: center;
@@ -29,12 +34,7 @@ font-size: 28px;
 padding-left: 10%;
 }
 
-body {
-  background-image: url("img/12.png"), url("img/13.png"), url("img/14.png");
-  background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position: center top, center center, center bottom;
-  background-size: cover, cover, cover;
-}
+
 
 .one-column {
   display: flex;
