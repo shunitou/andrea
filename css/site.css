@@ -77,7 +77,7 @@ button {
 
 .column img {
   max-width: 50%;
-  height: 50%;
+  height: auto;
   margin-bottom: 10px;
 }
 
@@ -94,13 +94,13 @@ button {
 
 .one-column img {
   width: 50%;
-  height: 50%;
+  height: auto;
   margin-bottom: 10px;
 }
 
 .two-column img {
   width: 50%;
-  height: 50%;
+  height: auto;
   margin-bottom: 10px;
 }
 
