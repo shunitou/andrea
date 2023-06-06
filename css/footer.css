@@ -19,18 +19,77 @@ footer {
     display: flex;
   }
   
-  .column {
+  .columna {
     flex: 1;
     padding: 10px;
   }
   
-  .column h2 {
+  .columna h2 {
     font-size: 38px;
     font-weight: bold;
-    color: #F79944;
+    color: #5B5B5A;
+  }
+ 
+
+  .columna p {
+    font-size: 22px;
+    color: #5B5B5A;
+  }
+  .columnb {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .columnb h2 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #5B5B5A;
   }
 
-  .column p {
+  .columnb h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #5B5B5A;
+  }
+
+  .columnb p {
+    font-size: 22px;
+    color: #5B5B5A;
+  }
+
+  .columnb a {
+    font-size: 22px;
+    color: #5B5B5A;
+  }
+
+  .columnc {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .columnc h2 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #5B5B5A;
+  }
+
+  .columnc p {
+    font-size: 22px;
+    color: #5B5B5A;
+  }
+
+  .columnd {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .columnd h2 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #5B5B5A;
+  }
+
+  .columnd p {
     font-size: 22px;
     color: #5B5B5A;
   }
