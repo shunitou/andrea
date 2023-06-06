@@ -97,6 +97,12 @@ button {
 }
 
 #centered button {
+  max-width: 100%;
+  height: auto;
+  text-align: left;
+}
+
+#centered img{
   padding: 20px 40px;
   font-size: 22px;
   background-color: #F7AD44;
