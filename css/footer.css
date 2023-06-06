@@ -4,6 +4,16 @@ footer {
     padding: 20px;
 }
 
+.column {
+  flex: 1;
+  padding: 10px;
+}
+
+.column h2 {
+  font-size: 38px;
+  font-weight: bold;
+  color: #F79944;
+
 .logo-container {
     display: flex;
     justify-content: center;
