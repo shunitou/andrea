@@ -20,7 +20,6 @@ main {
     max-width: 100%;
     height: auto;
   }
-
   .headers h1{
     color: #F79944;
     font-weight: 53 bold;
@@ -30,3 +29,53 @@ main {
     font: size 22px;;
    color: #5B5B5A;
   }
+  
+  .two-column {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  h3{
+    display: flex;
+  color: #F79944;
+  font-weight: 53 bold;
+  text-align: left;
+  font-size: 28px;
+  padding-left: 10%;
+  }
+  
+  
+  .column {
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  .column img {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+ 
+  .two-column img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  
+  .column h2 {
+  color: #F7AD44;
+  font-weight: 43 bold;
+  text-align: left;
+  padding-left: 30%;
+  }
+  
+  .column p {
+    font: size 22px;;
+   color: #5B5B5A;
+   text-align: left;
+   padding-left: 30%;
+  }
+  
