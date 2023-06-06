@@ -5,6 +5,10 @@ main {
 }
 
 .container {
+  background-image: url("img/12.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
     display: flex;
     align-items: left;
     justify-content: space-between;

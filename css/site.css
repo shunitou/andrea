@@ -54,6 +54,16 @@ margin-top: 200px;
   padding-left: 10%;
 }
 
+button {
+  padding: 20px 40px;
+  background-color: #F7AD44;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px; 
+  color: #f7f9eb;
+  border-radius: 20px;
+}
+
 .column-center p {
   font-size: 22px; /* Adjust the font size as needed */
   color: #5B5B5A;
@@ -71,7 +81,7 @@ margin-top: 200px;
   margin-bottom: 10px;
 }
 
-button {
+.column-center button {
   padding: 20px 40px;
   background-color: #F7AD44;
   border: none;
