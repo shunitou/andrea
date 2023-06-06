@@ -77,7 +77,7 @@ button {
 
 .column img {
   max-width: 50%;
-  height: auto;
+  height: 50%;
   margin-bottom: 10px;
 }
 
@@ -91,24 +91,16 @@ button {
   border-radius: 20px;
 }
 
-#centered{ 
-  padding: 10px 20px;
-  background-color: #F7AD44;
-  border: none;
-  cursor: pointer;
-  margin-top: 10px; 
-  align-items: center;
-}
 
 .one-column img {
   width: 50%;
-  height: auto;
+  height: 50%;
   margin-bottom: 10px;
 }
 
 .two-column img {
   width: 50%;
-  height: auto;
+  height: 50%;
   margin-bottom: 10px;
 }
 
