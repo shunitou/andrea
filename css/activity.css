@@ -6,9 +6,8 @@ main {
 
 .container {
   background-image: url("img/12.png");
-  background-repeat: no-repeat;
-  background-position: center top;
   background-size: cover;
+  background-position: center;
     display: flex;
     align-items: left;
     justify-content: space-between;
@@ -32,9 +31,8 @@ main {
 
   .container2 {
     background-image: url("img/13.png");
-    background-repeat: no-repeat;
-    background-position: center top;
     background-size: cover;
+  background-position: center;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -72,9 +70,8 @@ main {
 
   .container3 {
     background-image: url("img/14.png");
-    background-repeat: no-repeat;
-    background-position: center top;
     background-size: cover;
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: space-between;
