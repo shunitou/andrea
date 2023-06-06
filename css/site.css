@@ -71,7 +71,7 @@ button {
   border: none;
   cursor: pointer;
   margin-top: 10px; 
-  align-self: center;
+  align-items: center;
 }
 
 .one-column img {
