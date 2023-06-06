@@ -1,0 +1,24 @@
+
+main {
+  background-color: #f7f9eb;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .image img {
+    max-width: 100%;
+    height: auto;
+  }
