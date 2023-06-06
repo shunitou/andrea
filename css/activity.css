@@ -4,11 +4,23 @@ main {
   padding: 20px;
 }
 
-.container {
-  background-image: url("img/12.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+.background {
+  background-image: url("img/13.png");
+    background-size: cover;
   background-position: center;
+  }
+  .background2 {
+    background-image: url("img/16.png");
+    background-size: cover;
+  background-position: center;
+    }
+    .background3 {
+      background-image: url("img/15.png");
+      background-size: cover;
+    background-position: center;
+      }
+
+.container {
     display: flex;
     align-items: left;
     justify-content: space-between;
@@ -24,6 +36,12 @@ main {
     flex: 1;
     padding-right: 20px;
   }
+  .content h2{
+    font-weight: 53 bold;
+    text-align: left;
+    font-size: 28px;
+    color: #adcaeb;
+  }
   
   .image img {
     max-width: 100%;
@@ -31,9 +49,6 @@ main {
   }
 
   .container2 {
-    background-image: url("img/13.png");
-    background-size: cover;
-  background-position: center;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -63,6 +78,13 @@ main {
     text-align: left;
     font-size: 22px;
   }
+
+  .content2 h2{
+    font-weight: 53 bold;
+    text-align: left;
+    font-size: 28px;
+    color: #f79944;
+  }
   
   .image2 img {
     max-width: 100%;
@@ -70,9 +92,6 @@ main {
   }
 
   .container3 {
-    background-image: url("img/14.png");
-    background-size: cover;
-    background-position: center;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -95,6 +114,14 @@ main {
     padding-left: 20px;
     text-align: left;
   }
+
+  .content2 h2{
+    font-weight: 53 bold;
+    text-align: left;
+    font-size: 28px;
+    color: #f79944;
+  }
+  
   
   .image2 img {
     max-width: 100%;
