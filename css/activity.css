@@ -9,11 +9,13 @@ main {
     background-size: cover;
   background-position: center;
   }
+
   .background2 {
     background-image: url("img/16.png");
     background-size: cover;
   background-position: center;
     }
+    
     .background3 {
       background-image: url("img/15.png");
       background-size: cover;
@@ -95,7 +97,7 @@ main {
     margin-right: 30px;
   }
   
-  .image2 img {
+  .image2{
     max-width: 100%;
     height: auto;
     text-align: center;
