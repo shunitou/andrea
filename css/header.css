@@ -23,7 +23,7 @@ header {
 .menu li a {
     text-decoration: none;
     color: #f79944;
-    font-size: 43;
+    font-size: 43px;
     font-weight: bold;
 }
 
@@ -34,14 +34,14 @@ header {
 
 .search button {
     padding: 5px 10px;
-    background-color: #fff;
+    background-color: F7AD44;
     color: #333;
     border: none;
 }
 
 .button a {
     padding: 5px 10px;
-    background-color: #333;
-    color: #fff;
+    background-color: #F7AD44;
+    color: #333;
     text-decoration: none;
 }
