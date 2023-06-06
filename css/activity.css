@@ -1,14 +1,8 @@
 
-main {
-  background-color: #f7f9eb;
-  padding: 20px;
-  align-items: center;
-  text-align: center;
-}
 
 .container {
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
     margin-bottom: 20px;
   }
