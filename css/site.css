@@ -32,7 +32,7 @@ font-weight: bold;
 text-align: left;
 font-size: 53px;
 padding-left: 10%;
-margin-top: 20px;
+margin-bottom: 100px;
 }
 
 
@@ -69,7 +69,7 @@ button {
   background-color: #F7AD44;
   border: none;
   cursor: pointer;
-  margin-bottom: 40px; 
+  display: flex;
 }
 
 #centered{ 
@@ -96,7 +96,8 @@ button {
 
 .column h2 {
 color: #F7AD44;
-font-weight: 43 bold;
+font-weight: bold;
+font-size: 43px;
 text-align: left;
 padding-left: 30%;
 }
