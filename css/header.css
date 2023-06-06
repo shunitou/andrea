@@ -23,7 +23,8 @@ header {
 .menu li a {
     text-decoration: none;
     color: #f79944;
-    font-weight: 43;
+    font-size: 43;
+    font-weight: bold;
 }
 
 .search input[type="text"] {
