@@ -18,7 +18,7 @@ footer {
 .logo-container {
     display: flex;
     justify-content: center;
-    align-items: right;
+    margin-left: 60PX;
 }
 
 .logo-container img {
