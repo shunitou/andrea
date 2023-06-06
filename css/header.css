@@ -41,11 +41,13 @@ header {
     border: none;
     border-radius: 20px;
     cursor: pointer;
+    font-size: 22px;
 }
 
 .button a {
     padding: 10px 20px;
     background-color: #F7AD44;
+    font-size: 22px;
     color: #ffffff;
     text-decoration: none;
     border-radius: 20px;

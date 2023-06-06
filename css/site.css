@@ -64,6 +64,7 @@ button {
   color: #f7f9eb;
   border-radius: 20px;
   align-self: center;
+  margin-left: 40px;
 }
 
 .column-center p {
@@ -93,8 +94,20 @@ button {
   color: #f7f9eb;
   border-radius: 20px;
   align-self: center;
-  margin-right: 20px;
 }
+
+#centered button {
+  padding: 20px 40px;
+  font-size: 22px;
+  background-color: #F7AD44;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px; 
+  color: #f7f9eb;
+  border-radius: 20px;
+  align-self: center;
+}
+
 
 
 .one-column img {
