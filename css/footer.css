@@ -13,6 +13,7 @@ footer {
   font-size: 38px;
   font-weight: bold;
   color: #F79944;
+}
 
 .logo-container {
     display: flex;
@@ -110,7 +111,3 @@ footer {
     font-size: 22px;
     color: #5B5B5A;
   }
-
-
-
-
