@@ -32,7 +32,7 @@ font-weight: bold;
 text-align: left;
 font-size: 53px;
 padding-left: 10%;
-margin-bottom: 100px;
+margin-bottom: 200px;
 }
 
 
@@ -53,6 +53,7 @@ margin-bottom: 100px;
 }
 
 
+
 .column {
   padding: 10px;
   margin-top: 10px;
@@ -65,11 +66,11 @@ margin-bottom: 100px;
 }
 
 button {
-  padding: 20px 30px;
+  padding: 20px 40px;
   background-color: #F7AD44;
   border: none;
   cursor: pointer;
-  display: flex;
+  margin-top: 10px; 
 }
 
 #centered{ 
@@ -97,7 +98,7 @@ button {
 .column h2 {
 color: #F7AD44;
 font-weight: bold;
-font-size: 43px;
+font-size: 43;
 text-align: left;
 padding-left: 30%;
 }
