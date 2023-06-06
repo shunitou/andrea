@@ -26,6 +26,7 @@ header {
     font-size: 22px;
     font-weight: bold;
     padding: auto;
+    margin-right: 15px;
 }
 
 .search input[type="text"] {
@@ -35,7 +36,7 @@ header {
 
 .search button {
     padding: 5px 10px;
-    background-color: F7AD44;
+    background-color: #F7AD44;
     color: #333;
     border: none;
 }
