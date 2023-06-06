@@ -63,6 +63,7 @@ button {
   margin-top: 10px; 
   color: #f7f9eb;
   border-radius: 20px;
+  align-self: center;
 }
 
 .column-center p {
