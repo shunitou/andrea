@@ -30,24 +30,24 @@ h3{
      padding-left: 30%;
     }
 
-    form {
+    .contact-form{
         display: flex;
         flex-direction: column;
         max-width: 500px;
         margin: 0 auto;
       }
       
-      form div {
+      .contact-form div {
         margin-bottom: 10px;
       }
       
-      label {
+      .contact-form  label {
         font-weight: bold;
       }
       
-      input[type="text"],
-      input[type="email"],
-      textarea {
+      .contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
         padding: 8px;
         border-radius: 4px;
         border: 1px solid #ccc;
@@ -58,7 +58,7 @@ h3{
         height: 100px;
       }
       
-      button {
+      .contact-form button {
         padding: 10px 20px;
         background-color: #F7AD44;
         border: none;
@@ -66,8 +66,4 @@ h3{
         color: #f7f9eb;
         cursor: pointer;
         margin-top: 10px;
-      }
-      
-      button:hover {
-        background-color: #F79944;
       }
